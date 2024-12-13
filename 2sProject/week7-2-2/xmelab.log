@@ -1,0 +1,9 @@
+xmelab(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmelab(64)	23.03-s013: Started on Nov 01, 2024 at 11:37:43 KST
+xmelab
+    -MESS
+    -access rwc
+    ANDAS
+
+xmelab: *E,NOUNIT: Unable to find a unit named 'ANDAS' in the libraries.
+TOOL:	xmelab(64)	23.03-s013: Exiting on Nov 01, 2024 at 11:37:43 KST  (total: 00:00:00)
