@@ -1,0 +1,13 @@
+how_to_upload_github.txt
+
+1. Check Change Saha
+git status
+
+2. Last commit message title
+git commit -m "<The word I want to use>"
+
+3. Add File(All)
+git add ./*
+
+4. reroad
+git push
