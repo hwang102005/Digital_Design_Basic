@@ -1,0 +1,30 @@
+how_to_compress_a_file.txt
+
+compress
+1. Sequence (zip)
+1-1. zip -r <Name to be decided>.zip <Folder you want to select (Folder Path)>
+-<condition> (ex:-r)
+
+2. Sequence (tar.gz)
+2-1. tar -czvf <Name to be decided>.tar.gz <Folder you want to select (Folder Path)>
+-<condition> (ex:-czvf)
+
+un-compress
+1. Sequence (zip)
+1-1. unzip <Name>.zip
+
+2. Sequence (tar.gz)
+2-1. tar -zxvf <Name>.tar.gz
+-<condition> (ex:-zxvf)
+
+More information
+
+zip
+Link1: https://codechacha.com/ko/linux-zip-unzip/
+
+tar.gz
+Link1: https://blog.naver.com/happy_79/223691311380
+Link2: https://skstp35.tistory.com/503
+Link3: https://nota.tistory.com/53
+Link4: https://linuxpia.tistory.com/582
+ 
