@@ -1,0 +1,9 @@
+xmvlog(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmvlog(64)	23.03-s013: Started on Oct 25, 2024 at 11:11:57 KST
+xmvlog
+    -MESS
+    ../src/tb_sn54ls32.v
+
+file: ../src/tb_sn54ls32.v
+xmvlog: *F,DLIORG: Library (physical path) /home/digital_stdb10/exam1/sim/sn54ls32.lib was originally compiled with logical name 'tb_sn54ls32_lib'. Please include the original definition of library in cds.lib file.
+TOOL:	xmvlog(64)	23.03-s013: Exiting on Oct 25, 2024 at 11:11:57 KST  (total: 00:00:00)

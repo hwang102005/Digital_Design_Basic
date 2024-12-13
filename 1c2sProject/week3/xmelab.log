@@ -1,0 +1,12 @@
+xmelab(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmelab(64)	23.03-s013: Started on Oct 18, 2024 at 10:45:27 KST
+xmelab
+    -MESS
+    -access rwc
+    AND3X1,
+    SN74LS11,
+    tb_sn74ls11
+
+xmelab: *E,NOUNIT: Unable to find a unit named 'AND3X1,' in the libraries.
+xmelab: *E,NOUNIT: Unable to find a unit named 'SN74LS11,' in the libraries.
+TOOL:	xmelab(64)	23.03-s013: Exiting on Oct 18, 2024 at 10:45:27 KST  (total: 00:00:00)

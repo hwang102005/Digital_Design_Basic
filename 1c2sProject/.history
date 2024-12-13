@@ -1,0 +1,1090 @@
+#+1725582124
+passwd
+#+1725582859
+mkdir linux
+#+1725583232
+cd ~
+#+1725583456
+man pwd
+#+1725583644
+man clear
+#+1725583760
+ls -l
+#+1725583808
+man ks
+#+1725583902
+man man
+#+1725583969
+ls -a
+#+1725584038
+man ls
+#+1725584095
+crean
+#+1725584122
+cleone
+#+1725584151
+ls -a -l
+#+1725584188
+cleon
+#+1725585304
+cd ./linux/
+#+1725585333
+touch first.txt
+#+1725585367
+mldir ./linux1
+#+1725585424
+cd ./linux1/
+#+1725585851
+mkdir -p ./linux3/linux4
+#+1725585878
+ls ./linux3/
+#+1725585889
+mux mkdir
+#+1725585905
+mul mkdir
+#+1725585923
+man mkdir
+#+1725587000
+vi ./first.txt
+#+1725589617
+cd -r ./linux1 ./linux3
+#+1725589656
+ls ./linux3
+#+1725589683
+cp -r ./linux2 ./linux4
+#+1725589728
+rm ./first.txt
+#+1725589762
+rm -r ./linux4
+#+1725589839
+mv ./linux1 ./linux2
+#+1725589852
+cd ./linux2
+#+1725590067
+touch ./test.txt
+#+1725590383
+head ./
+#+1725590409
+head ./test.txt
+#+1725590433
+head -n 5 ./test.txt
+#+1725590449
+tall -n 3 ./test.txt
+#+1725590457
+tail -n 3 ./test.txt
+#+1725590539
+more ./test.txt
+#+1725590560
+less ./test.txt
+#+1726186406
+bash
+#+1726186667
+touth ./my.cshrc
+#+1726186679
+touch ./my.cshrc
+#+1726186711
+chmod +x ./my.cshrc
+#+1726186877
+sorce ./my.cshrc
+#+1726186908
+touch ./.cshrc
+#+1726186959
+vi ./cshrc
+#+1726187037
+vi .cshrc
+#+1726187712
+alias cl 'clear'
+#+1726187725
+jfojsda
+#+1726187726
+fjsdjok
+#+1726187727
+]jsdlfkh
+#+1726187940
+vi ./.cdsrc
+#+1726187959
+vi ./.schrc
+#+1726187972
+vi ./.cshrc
+#+1726189259
+test.txt
+#+1726189282
+touch ./original.txt
+#+1726189356
+ln ./original.txt ./copy.txt
+#+1726189416
+lres ./copy.txt
+#+1726189431
+less ./copy.txt
+#+1726189784
+ln -s ./original.txt ./copy2.txt
+#+1726189869
+vi ./original.txt
+#+1726190161
+rm ./original.txt
+#+1726190204
+cat ./copy.txt
+#+1726190224
+cat ./copy2.txt
+#+1726190632
+mkdir ./linux1
+#+1726190635
+mkdir ./linux2
+#+1726190637
+mkdir ./linux3
+#+1726190668
+cd ./linux1
+#+1726190682
+mkdir ./linux4
+#+1726190685
+mkdir ./linux5
+#+1726190688
+cl..
+#+1726190755
+tar -czvf ./my.tgz ./linux1
+#+1726190791
+rm -r ./linux1
+#+1726190865
+tar -xzvf ./my.tgz
+#+1726190981
+ls ; cd ..
+#+1726191154
+ls- al
+#+1726191687
+ls -al > ./result.txt
+#+1726191732
+cat ./result.txt
+#+1726191746
+ls > ./result.txt
+#+1726191803
+ls al >> ./result.txt
+#+1726191826
+ls -al >> ./result.txt
+#+1726192951
+kill 108651
+#+1726192980
+ps
+#+1726193020
+kill -9 109084
+#+1726193034
+kill -9 109098
+#+1726193225
+evince &
+#+1726193243
+evince
+#+1726193409
+touch permission.txt
+#+1726193475
+chmod -w ./permission.txt
+#+1726193483
+ls -al | grep permi
+#+1726193582
+chmod +x ./permission.txt
+#+1726193613
+chmod +w ./permission.txt
+#+1726193665
+ls -al | grap cds
+#+1726195190
+mkdir week3
+#+1726195221
+touch sn74ls11.v
+#+1726195234
+vi ./sn74ls11.v
+#+1726790865
+ls -al | grep cds.csh
+#+1726791381
+vi ./result.txt
+#+1726791447
+vi sn74ls11.v
+#+1726795904
+mv ./sn74ls11.v ./AND3X1.v
+#+1726796143
+touch SN74LS11.v
+#+1726799508
+touch ./tb_sn74ls11.v
+#+1727395394
+sorce ~/cds.cshrc
+#+1727395408
+source ~/cds.cshrc
+#+1727397168
+cd week3/
+#+1727397173
+mkdir clock
+#+1727399011
+touch ./cds.lib
+#+1727399020
+touch ./hdi.var
+#+1727399111
+chmob +x ./cds.lib
+#+1727399114
+chmob +x ./hdi.var
+#+1727399129
+chmod +x ./cds.lib
+#+1727399135
+chmod +x ./hdi.var
+#+1727399176
+mkdir lib
+#+1727399232
+mv ./lib worklib
+#+1727399725
+xmviog -MESS -linedebug ./clock
+#+1727400151
+mv ./hdi.var ./hdl.var
+#+1727400153
+xmvlog -MESS -linedebug ./clock_gen.v
+#+1727400755
+xmls -all
+#+1727400818
+xmelad -access rwc clock_gen
+#+1727400855
+xmelab -MESS -access rwc clock_gen
+#+1727400971
+xmsim clock_gen -gui
+#+1727402734
+cd worklib
+#+1727402756
+cd ./clock_gen/
+#+1727402771
+cd ./module/
+#+1727402869
+0
+#+1727403299
+rm -r *.shm *.log *.key
+#+1727403491
+LS
+#+1727403626
+touch happy.log
+#+1727404416
+cd ./Makefile
+#+1727404789
+chmod +x Makefile
+#+1727404795
+chmod +x cds.lib
+#+1727404805
+chmod +x hdl.var
+#+1727404993
+cd ./worklib/
+#+1727405002
+cd ...
+#+1727405773
+vi ./A
+#+1727850746
+ls -al | grep cds
+#+1727850854
+cd ./week3/
+#+1727850983
+vi ./s
+#+1728000163
+vi SN74LS11.v
+#+1728000357
+mkdir ./week7
+#+1728000694
+vi AND3X1.v
+#+1728001516
+cd week7
+#+1728001542
+touch ./MUX4X1
+#+1728001550
+vi ./MUX4X1
+#+1728002522
+touch ./tb_mux4x1.v
+#+1728002556
+mv MUX4X1 MUX4X1.v
+#+1728006239
+week3
+#+1728006247
+cd .?week3
+#+1728007432
+mkdir data_flow
+#+1728007467
+cp../MUX3X1
+#+1728007473
+cp. ./MUX3X1
+#+1728007477
+cp ./MUX3X1
+#+1728007536
+cp MUL
+#+1728007550
+cp -mul
+#+1728007555
+cp --mul
+#+1728007661
+cp ./MUX4X1.v ./data_flow/MUX4X1.v
+#+1728007668
+cd ./data_flow/
+#+1728007841
+cp ../tb_mux4x1.v ./tb_mux4x1.v
+#+1728008501
+rm -rf xmvlog.log
+#+1728008543
+xmvlog -MESS -linedebug ./*.v
+#+1728008568
+vi tb_sn74ls11.v
+#+1728008935
+xmelab -MESS -access rwc AND3X1.v
+#+1728008977
+xmsim AND3X1.v -gui
+#+1728008993
+xmelab -MESS -access rwc AND3X1
+#+1728008996
+xmsim AND3X1 -gui
+#+1728009146
+rm -rf *.key
+#+1728009183
+mv ./happy.log ./happy.loga
+#+1728009214
+mv ./happy.loga ./happy.log
+#+1728009566
+mkdir expt
+#+1728009604
+touch a.v
+#+1728009608
+touch b.v
+#+1728009612
+touch c.v
+#+1728009615
+touch d.v
+#+1728009643
+vi ./b.v
+#+1728009655
+vi ./c.v
+#+1728009678
+vi ./d.v
+#+1728009869
+make S1
+#+1729210108
+cd ./week7
+#+1729211698
+cd ./session_
+#+1729211817
+vi ./
+#+1729212192
+clean
+#+1729213175
+cd ./session_4
+#+1729213197
+cd week3
+#+1729213494
+mkdir week8
+#+1729213570
+cp ./week3/clock/clock_gen.v ./week8
+#+1729213579
+cd ./week8
+#+1729213832
+vi ./clock_gen.v
+#+1729214573
+cd /week3
+#+1729214733
+cd ./clock/
+#+1729214790
+cp ./clock/cds.lib ./
+#+1729214815
+cp ./clock/hdl.var ./
+#+1729214821
+cd clock/
+#+1729215215
+cp ./cds.lib, hdl.var ./
+#+1729215641
+mkdir worklib2
+#+1729215643
+mkdir worklib3
+#+1729815160
+mkdir exam1
+#+1729815257
+make set_lang
+#+1729815365
+cd ./exam1/
+#+1729815408
+touch tb_sn54ls32.v
+#+1729815417
+vi tb_sn54ls32.v
+#+1729816101
+cd ./src
+#+1729816352
+mkdir src
+#+1729816376
+mv ./tb_sn54ls32.v ./src/
+#+1729816404
+touch hdi.var
+#+1729816415
+hdi.var
+#+1729816575
+xmcomple --MESS tb_sn54ls32.v
+#+1729816650
+xmvlog --MESS accunt tb_sn54ls32.v
+#+1729817038
+vi ./tb_sn54ls32.v
+#+1729817145
+xmvlog -MESS tb_sn54ls32.v
+#+1729818144
+cds.lib
+#+1729818389
+xmelab --MESS tb_sn54ls32.v
+#+1729818991
+vi ./hdi.var
+#+1729819046
+xmelab -MESS tb_sn54ls32.v
+#+1729819078
+rm -rf xm*
+#+1729819090
+rm -rf worklib/ xcelium.d/ ./1
+#+1729819145
+mkdir sim
+#+1729819151
+cd sim
+#+1729819177
+mkdir sn54ls32.lib
+#+1729819182
+touch cds.lib
+#+1729819185
+touch hdl.var
+#+1729819357
+cd ./sn54ls32.lib/
+#+1729819415
+rm ./worklib/
+#+1729819428
+rm -rf ./worklib/
+#+1729819597
+xmviog --MESS tb_sn54ls32.v
+#+1729819609
+xmvlog --MESS tb_sn54ls32.v
+#+1729819971
+xmvlog --MESS ./ .. /src/tb_sn54ls32.v
+#+1729819979
+vi ./ .. /src/tb_sn54ls32.v
+#+1729820143
+xmvlog --MESS ../src/tb_sn54ls32.v
+#+1729820149
+vi ../src/tb_sn54ls32.v
+#+1729820344
+xmelab --MESS ../src/tb_sn54ls32.v
+#+1729820427
+xmelab -MESS ../src/tb_sn54ls32.v
+#+1729821262
+cdls
+#+1729821270
+cat cds.lib
+#+1729821299
+cat hdl.var
+#+1729821455
+vi hdl.var
+#+1729821493
+xmsim ../src/tb_sn54ls32.v -gui
+#+1729822296
+xmelab -MESS -access +rwc ../src/tb_sn54ls32.v
+#+1729822303
+rm -rf *.log
+#+1729822317
+xmvlog -MESS ../src/tb_sn54ls32.v
+#+1729823654
+cd ,,
+#+1729823714
+cd ./Digital Digital_Design/
+#+1729823723
+cd ./Digital_Design/
+#+1729823745
+cd ./session_6
+#+1729823762
+cd session_5
+#+1729823782
+vi tb_mux4x1.v
+#+1729824091
+mv ./Digital_Design/ Digital_Design1
+#+1729824139
+cd ./Digital_Design/src/session_5/mux4x1/
+#+1729824376
+wxit
+#+1729824412
+cd ../..
+#+1729824448
+cd ./digital_stdb10
+#+1730423802
+cd week8
+#+1730423861
+mkdir week7-2
+#+1730423910
+touch IS.v
+#+1730423916
+vi IS.v
+#+1730424385
+make si
+#+1730424391
+makesl
+#+1730424488
+cd week7-2
+#+1730424680
+cp ../
+#+1730424737
+cp ../week3/cds.lib ./
+#+1730424750
+cp ../week3/hdl.var ./
+#+1730424900
+cp ../week3/Makefile ./
+#+1730425317
+vi ./IS.v
+#+1730425401
+xmvlog -MESS -linedebug ./IS.v
+#+1730425427
+xmelab -MESS -access rwc IS
+#+1730425663
+mkdir IS
+#+1730425764
+rm -rf ./IS
+#+1730425794
+mv ./IS.v /ISe.v
+#+1730425830
+mv ./IS.v ./ISe.v
+#+1730425854
+xmelab -MESS -access rwc IS.v
+#+1730427933
+mkdir week7-2-2
+#+1730427952
+cd week7-2-2
+#+1730427979
+touch ANDAS.v
+#+1730427986
+vi ANDAS.v
+#+1730428206
+cp ../week7-2/cds.lib, hdl.var ./
+#+1730428261
+vi 1q
+#+1730428299
+rm -rf 1q
+#+1730428319
+vi ./c
+#+1730428663
+xmelab -MESS -access rwc ANDAS
+#+1730428763
+vi ./ANDAS.v
+#+1730428824
+mv ./ANDAS.v ./ander
+#+1730428841
+vi ./ander
+#+1730428860
+mv ./ander ./ander.v
+#+1730428873
+vi ./cds.lib
+#+1730429067
+xmvlog -MESS -linedebug ./ANDAS.v
+#+1730429097
+xmvlog -MESS -linedebug ./ander.v
+#+1730429238
+touch a
+#+1730429298
+rm -rf a
+#+1731025186
+mkdir week7-3
+#+1731025206
+cd ./week7-3
+#+1731025218
+touch blocking
+#+1731025244
+mv ./blocking blocking.v
+#+1731026219
+cp ./blocking.v non_blocking.v
+#+1731026242
+rm -rf ./non_blocking.v
+#+1731026247
+vi
+#+1731026258
+vi blocking.v
+#+1731026282
+mv ./blocking.v non_blocking.v
+#+1731026327
+cp ../week7-2/Makefile ./
+#+1731026446
+cp ../week7-2/cds.lib ./
+#+1731026455
+cp ../week7-2/hdl.var ./
+#+1731026467
+vi cds.lib
+#+1731026489
+vi ./hdl.var
+#+1731026517
+mkdir worklib
+#+1731026525
+make akk
+#+1731026643
+xmvlog -MESS -linedebug ./non_block.v
+#+1731026676
+xmvlog -MESS -linedebug ./non_blocking.v
+#+1731026701
+xmelab -MESS -access rwc non_blocking
+#+1731026722
+xmsim AND3X1, SN74LS11, non_blocking -gui
+#+1731027013
+xmsim non_blocking -gui
+#+1731027056
+xmsim non_blocking
+#+1731028370
+clone git https://github.com/codefoolosopher/Digital_Design.git
+#+1731028418
+mv Digital_Design Digital_Design2
+#+1731028457
+cd ./src/
+#+1731028469
+cd ./session_7
+#+1731028481
+cd blocking/
+#+1731028666
+vi non_blocking.v
+#+1731028907
+make sim
+#+1731029766
+vi ./tb_mux4x1_bahav.v
+#+1731029867
+vi ./mux4x1
+#+1731629124
+make cds_e
+#+1731629310
+vi cds.cshrc
+#+1731629647
+mkdir week8-2
+#+1731629664
+cd ./week8-2
+#+1731629697
+mkdir simple_counter
+#+1731629709
+cd ./simple_counter/
+#+1731629732
+touch counter.v
+#+1731635002
+cp ../../week7-3/Makefile ./
+#+1731635123
+make complie
+#+1731635152
+make compile
+#+1731635187
+make elab
+#+1731635225
+vi ../../week7-3/Makefile
+#+1731635361
+vi ../../Digital_Design/src/session_7/MUX4X1/Makefile
+#+1731635389
+cp ../../Digital_Design/src/session_7/MUX4X1/Makefile ./
+#+1731636936
+make clear
+#+1731636964
+cd..
+#+1731637041
+mkdir register
+#+1731637048
+cd ./register/
+#+1731637082
+touch register.v
+#+1731637091
+touch tb_register.v
+#+1731637111
+vi ./register.v
+#+1731637737
+vi ./tb_register.v
+#+1732234109
+git clone https://github.com/codefoolosopher/digital_design_ncs.git
+#+1732234116
+cd digital_design_ncs/
+#+1732234125
+evince exam_ncs.pdf &
+#+1732234135
+cd src/
+#+1732234139
+clear
+#+1732234250
+vi ./tb_sn54ls153.v
+#+1732234515
+vi SN54LS153.v
+#+1732840185
+cheak :
+#+1732840287
+mkdir week9
+#+1732842153
+touch pipeline
+#+1732842172
+mv ./pipeline pipeline.v
+#+1732842200
+vi. pipeline.v ]
+#+1732842203
+vi. pipeline.v
+#+1732844236
+mv ./Digital_Design Digital_Design3
+#+1732844255
+git clone https://github.com/codefoolosopher/Digital_Design.git
+#+1732844279
+cd week9
+#+1732844287
+make clean
+#+1732844315
+make ck
+#+1732844322
+ks
+#+1732844369
+cp ../Digital_Design/src/session_8/pipeline/tb_pipeline.v ./
+#+1732844397
+vi Makefile
+#+1732844442
+vi ,.t
+#+1732844456
+vi ./tb_pipeline.v
+#+1732845964
+al
+#+1732845966
+la
+#+1732848103
+make cl
+#+1732848110
+d
+#+1733443267
+echo 0$
+#+1733443274
+source ./cds.cshrc
+#+1733443294
+which simvision
+#+1733443318
+mkdir final_exam
+#+1733443340
+cd ./final_exam/
+#+1733443406
+mkdir sim, src
+#+1733443457
+mv ./sim, sim
+#+1733443490
+cd src
+#+1733443533
+touch adder.v tb_adder.v
+#+1733443563
+cd /..
+#+1733443581
+cd ./final_exam/sim/
+#+1733443699
+cd ../src
+#+1733444032
+cd ../../week9/
+#+1733444093
+cd ../final_exam/src/
+#+1733444130
+cd ./week9
+#+1733444163
+vi ./pipeline.v
+#+1733444765
+cd ../
+#+1733444782
+cd ./Digital_Design
+#+1733444797
+cd ./src/session_8
+#+1733444804
+cd ./fsm_basic/
+#+1733444820
+vi ./fsm_basic.v
+#+1733444865
+cd ./session_5/mux4x1/
+#+1733444872
+vi ./M
+#+1733444890
+vi ./MUX4X1.v
+#+1733444949
+cd ./SN54ALS153/
+#+1733444963
+vi ./SN54LS153.v
+#+1733445041
+cd ../../session_4/
+#+1733445362
+cd ./session_5
+#+1733445371
+cd ./mux4x1/
+#+1733445375
+vi ./t
+#+1733445382
+vi ./tb_mux4x1.v
+#+1733445463
+cd ./week3
+#+1733445714
+dl
+#+1733445788
+cd ./Digital_Design/src/session_7/MUX4X1/
+#+1733445796
+vi ./mux4x1_behav.v
+#+1733447115
+cd ./Digital_Design/src/session_7/simple_counter/
+#+1733447133
+vi ./counter.v
+#+1733449461
+cd ./MUX4X1/
+#+1733449469
+vi mux4x1_behav.v
+#+1733449997
+vi ./adder.v
+#+1733450395
+cd ./Digital_Design/src/session_4/
+#+1733450403
+vi ./AND3X1.v
+#+1733450480
+vi ./SN74LS11.v
+#+1733450888
+vi ./tb_sn74ls11.v
+#+1733450988
+rm ./tb_adder.v
+#+1733451011
+cp ./adder tb_adder
+#+1733451022
+cp ./adder.v tb_adder.v
+#+1733451444
+vi ./tb_adder.v
+#+1734052743
+ssh-keygen -t ed25519 -C "hwang1020005@naver.com"
+#+1734052927
+cat id_ed25519.pub
+#+1734053031
+grap | .pub
+#+1734053250
+vi ./ssh
+#+1734053445
+cd .ssh/
+#+1734053460
+vi id_ed25519.pub
+#+1734053536
+cd Digital_Design_Basic/
+#+1734054007
+git config --global user.email "hwang102005@naver.com"
+#+1734054035
+git config --global user.name "hjk"
+#+1734054369
+rm -rf Digital_Design_Basic/
+#+1734054423
+git clone git@github.com:hwang102005/Digital_Design_Basic.git
+#+1734054579
+git commit -m "Merry x-mas"
+#+1734054724
+cd ./.ssh
+#+1734054735
+vi ./id_ed25519.pub
+#+1734054985
+mkdir 2sProject
+#+1734055198
+cp mul]
+#+1734055201
+cp mul
+#+1734055209
+cp mel
+#+1734055227
+cp man
+#+1734055236
+cp mau
+#+1734055243
+cp --help
+#+1734055372
+cp ../*
+#+1734055378
+ls-al
+#+1734055421
+mkdir ./test
+#+1734055486
+cp ../* ./
+#+1734055577
+zip -r 2s.zip ./*
+#+1734055648
+mv ../2s.zip
+#+1734055652
+mv ../2s.zip ./
+#+1734055688
+cd ../Digital_Design_Basic/
+#+1734055712
+mv ../2sProject/ ./
+#+1734055756
+unzip 2s.zip
+#+1734055800
+rm 2s.zip
+#+1734055833
+2sProject/
+#+1734055862
+rm ./2sProject/
+#+1734055894
+rm ./2sProject
+#+1734055903
+rmdir ./2sProject
+#+1734055912
+rm 2sProject
+#+1734055961
+mv ./2sProject/ ./2sProject0
+#+1734055983
+rm 2sProject0
+#+1734056044
+mv ./2sProject0/ ./rmd
+#+1734056145
+mv ./2sProject/rmd/ ./
+#+1734056166
+cd ./rmd/
+#+1734056179
+rm ./*
+#+1734056193
+rm ./rmd
+#+1734056223
+rm -rf ./rmd/
+#+1734056288
+mv ./Digital_Design ./Digital_Design4
+#+1734056302
+rm -rf ./Digital_Design_Basic/
+#+1734056376
+vi ./my.cshrc
+#+1734056405
+vi ./cds.cshrc
+#+1734056558
+vi ./permission.txt
+#+1734058617
+cd ./expt/
+#+1734058634
+vi ./a.v
+#+1734058785
+vi ./README.md
+#+1734058987
+git commit -m "Revi"
+#+1734059345
+git commit -m "Revisd README Second semester project(2sProject)"
+#+1734059416
+touch Makefile
+#+1734059897
+touch how to upload gitHub.txt
+#+1734059919
+make all
+#+1734060095
+rm how to load gitHub.txt
+#+1734060104
+rm ./how to load gitHub.txt
+#+1734060113
+rm -rf ./how to load gitHub.txt
+#+1734060125
+rm -rf ./upload
+#+1734060230
+git add ./*
+#+1734060232
+git push
+#+1734060252
+git status
+#+1734060255
+git commit -m "Revisd README"
+#+1734060272
+git remove ./*
+#+1734060288
+git remote ./*
+#+1734060375
+touch how_to_upload_github.txt
+#+1734060415
+vi ./how_to_upload_github.txt
+#+1734060771
+virtuoso
+#+1734065207
+vi ./CDS.log
+#+1734065226
+rm ./CDS.log
+#+1734065250
+cd ./Digital_Design_Basic/2sProject/
+#+1734065287
+mv ./Digital_Design_Basic/2sProject/ ./
+#+1734066035
+vi ./libManager.log
+#+1734066056
+rm ./libManager.log
+#+1734066610
+echo $0
+#+1734066738
+cd ./Digital_Design_Basic/
+#+1734066782
+mv ./Makefile how_to_upload_github.txt ../2sProject/
+#+1734066793
+cd .
+#+1734066817
+vi ./Makefile
+#+1734066829
+make sl
+#+1734066843
+cd ./2sProject/
+#+1734066868
+rm -rf ./Digital_Design_Basic
+#+1734067153
+tar -czvf 2s.tar ./*
+#+1734067221
+cd ./.bashrc
+#+1734067228
+vi ./.bashrc
+#+1734067280
+cd ./PDK/
+#+1734067633
+tar -czvf 2s.tar ./* ./.*
+#+1734067711
+cp ../2s.tar ./
+#+1734067722
+tar -zxvf 2s.tar
+#+1734067740
+rm -rf ./*
+#+1734067768
+rm ./2s.tar
+#+1734068068
+cd ./.cadence/
+#+1734068094
+cd ./dfII/
+#+1734068102
+cd ./ui
+#+1734068223
+mkdir he1
+#+1734068232
+mkdir he2
+#+1734068249
+cd ./he1
+#+1734068264
+mv ../he2 ./
+#+1734068275
+cd ./he2
+#+1734068282
+ls -al
+#+1734068324
+rm -rf ./he1
+#+1734068537
+cd ./test/
+#+1734068554
+tar -czvf test.tar.gz ./.*
+#+1734068641
+rm test.tar.gz
+#+1734068648
+tar -czvf test.tar.gz ./.
+#+1734069165
+mkdir Hide_folder
+#+1734069342
+cd ./Hide_folder/
+#+1734069357
+cl]
+#+1734069652
+cd ./.
+#+1734069696
+tar -czvf Hide_folder.tar.gz ../.
+#+1734069791
+zip test.zip ./.
+#+1734069795
+zip test.zip ../.
+#+1734069873
+mkdir test
+#+1734069880
+cd ./test
+#+1734069901
+cp ../test.zip ./
+#+1734069908
+unzip test.zip
+#+1734069918
+cd ..
+#+1734069927
+rm -rf test
+#+1734069959
+rm test.zip
+#+1734069999
+cl
+#+1734070056
+tar -czvf Hide_folder.tar.gz ./.
+#+1734070089
+pwd
+#+1734070235
+tar -czvf Hide_folder.tar.gz ./.*
+#+1734070678
+rm Hide_folder.tar.gz
+#+1734070682
+ls
+#+1734070686
+cd
+#+1734070689
+exit
