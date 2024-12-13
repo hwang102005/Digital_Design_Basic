@@ -1,3 +1,0 @@
-define AND3X1_lib ./worklib
-define tb_sn74ls11_lib ./worklib2
-define SN74LS11_lib ./worklib3
