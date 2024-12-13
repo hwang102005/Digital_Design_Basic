@@ -1,2 +1,0 @@
-cal_home=getShellEnvVar("CALIBRE_HOME")
-load(strcat(cal_home "/lib/calibre.skl"))

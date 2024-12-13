@@ -1,1 +1,0 @@
-("DGND:/\tDGND basic schematic" (("open" (nil hierarchy "/{basic DGND schematic }:r"))) (((-0.18125 -0.2625) (0.18125 0.025)) "r" "Schematics" 5))("Bsize:/\tBsize US_8ths symbol" (("open" (nil hierarchy "/{US_8ths Bsize symbol }:r"))) (((-0.94375 -1.875) (17.95 12.9)) "r" "Symbol" 4))
